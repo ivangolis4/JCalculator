@@ -8,54 +8,83 @@ For loop - will do the task repeatedly inside the for loop until the condition b
 
 for(i = 1; i <= 10; i++){
 
- //i = 1 \n
- //i<10 = true \n
+ //i = 1 
+ 
+ //i<10 = true 
+ 
  // do the task inside this for loop
  
- // i++ \n
+ // i++ 
+ 
  // i = 2
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  
  // i++
+ 
  // i = 3
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 4
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 5
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 6
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 7
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 8
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 9
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
+ 
  // i = 10
+ 
  //i<10 = true
+ 
  // do the task inside this for loop
  
  // i++
