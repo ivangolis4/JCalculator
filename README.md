@@ -88,8 +88,11 @@ for(i = 1; i <= 10; i++){
  // do the task inside this for loop
  
  // i++
+ 
  // i = 11
+ 
  //i<10 = false
+ 
  // stop the for loop without executing the task
  
 }
